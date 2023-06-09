@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Corona Tracer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">COVID19 Updater</string>
+    <string name="nav_header_subtitle">Updates in every 10 minutes</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Global Update</string>
+    <string name="menu_gallery">Countries</string>
+    <string name="menu_slideshow">Most Affected Countries</string>
+    <string name="who">About App</string>
+    <string name="totalcases">Total Cases -></string>
+    <string name="totaldeaths">Total Deaths -></string>
+    <string name="todaycases">Today Cases -></string>
+    <string name="todaydeaths">Today Deaths -></string>
+    <string name="totalrecovered">Total Recovered -></string>
+    <string name="todayrecovered">Today Recovered -></string>
+    <string name="casesper">Cases Per 1M -></string>
+    <string name="deathsper">Deaths Per 1M -></string>
+    <string name="date">Date ->   </string>
+    <string name="active">Total Active -></string>
+    <string name="globalstatus">GLOBAL STATUS</string>
+    <string name="Htotalcases">Total Cases</string>
+    <string name="Htotaldeaths">Total Deaths </string>
+    <string name="Htodaycases">Today Cases </string>
+    <string name="Htodaydeaths">Today Deaths </string>
+    <string name="Htotalrecovered">Total Recovered </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ad_unit_id">ca-app-pub-4875345024018177/5639925364</string>
+</resources>
